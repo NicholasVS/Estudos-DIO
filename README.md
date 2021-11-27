@@ -1,4 +1,4 @@
-#   👩‍🎓 Meus Estudos DIO (Digital Innovation One)  👩   🥇
+#   👩‍🎓 Meus Estudos DIO (Digital Innovation One)  👩 🥇
 ## 🧑‍💻 Arquivos de Estudos DIO:
 Bootcamp .Net Fundamentals - Inscrito/Sendo realizado junto a DIO 
 
